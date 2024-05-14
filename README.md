@@ -1,6 +1,9 @@
-### Hi there 👋
+<div align="center">
+  <img src="https://www.icegif.com/wp-content/uploads/sasuke-icegif-6.gif">
+</div>
 
 <!--
+### Hi there 👋
 **exkludera/exkludera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
