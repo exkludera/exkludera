@@ -15,7 +15,7 @@
 * https://github.com/exkludera/cs2-gangs
 * https://github.com/exkludera/cs2-trails
 * https://github.com/exkludera/cs2-health-packs
-* https://github.com/exkludera/cs2-glowing-buttons
+* https://github.com/exkludera/cs2-glowing-entities
 * https://github.com/exkludera/cs2-equipments
 * https://github.com/exkludera/cs2-force-say
 * https://github.com/exkludera/cs2-open-doors-no-ct
