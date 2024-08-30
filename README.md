@@ -11,6 +11,7 @@
 * https://github.com/exkludera/cs2-custom-menu
 * https://github.com/exkludera/cs2-killfeed-icons
 * https://github.com/exkludera/cs2-bullet-effects
+* https://github.com/exkludera/cs2-jailbreak
 * https://github.com/exkludera/cs2-ctbans
 * https://github.com/exkludera/cs2-gangs
 * https://github.com/exkludera/cs2-trails
