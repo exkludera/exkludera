@@ -10,6 +10,8 @@
 * https://github.com/exkludera/cs2-blockmaker
 * https://github.com/exkludera/cs2-custom-menu
 * https://github.com/exkludera/cs2-equipments
+* https://github.com/exkludera/cs2-gift-packages
+* https://github.com/exkludera/cs2-countryflags
 * https://github.com/exkludera/cs2-teleports
 * https://github.com/exkludera/cs2-killfeed-icons
 * https://github.com/exkludera/cs2-bullet-effects
